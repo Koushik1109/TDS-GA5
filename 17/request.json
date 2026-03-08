@@ -1,0 +1,6 @@
+{
+  "model": "gpt-image-1-mini",
+  "prompt": "A whimsical illustration of a cat playing chess with an owl",
+  "n": 2,
+  "size": "1024x1024"
+}

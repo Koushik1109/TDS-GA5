@@ -1,0 +1,10 @@
+========================================
+closest_warehouse
+WH-02    17
+WH-03    14
+WH-01     8
+WH-05     7
+WH-04     4
+Name: count, dtype: int64
+========================================
+The warehouse that handles the most orders is WH-02, with 17 orders.
